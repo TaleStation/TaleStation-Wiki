@@ -67,6 +67,6 @@ Certain reagents have been buffed to make them more compatible with pain.
 | Ibuprofen | 0.6 | 1u each of Propionic Acid, Phenol, Oxygen and Hydrogen | - | 
 | Aspirin Paracetamol Caffine | 0.75 | 1u each | Treats moderate pain. Toxin in high doses | 
 | Oxycodone | 0.4 | Juice poppies | 15~20u will cause the **Opioids** addiction. May also cause heart attack if overdosed. |
-| Propinoic Acid | - | 1u each of Carbon, Oxygen and Hydrogen | Required to make Aspirin and Ibuprofen. | 
+| Propinoic Acid | - | 1u each of Carbon, Oxygen and Hydrogen. Requires a 1u catalyst of Sulphuric Acid. Cool to 225K. | Required to make Aspirin and Ibuprofen. | 
 | Dimenhydrinate | - | 1u each of Dipenhydramine, nitrogen and chlorine | Good for nausea. | 
 | Ondansetron | - | 1u each of Oil, Nitrogen and Oxygen | Requires catalyst: 3u of Ethanol. Easier than Dimenhydrinate. |
