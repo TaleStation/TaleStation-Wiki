@@ -5,7 +5,7 @@ PubbyStation was sanctioned from /tg/station on July 29th, 2021 ([Commit link](h
 
 PubbyStation was also removed from /tg/station on December 9th, 2020 ([PR link](https://github.com/tgstation/tgstation/pull/54588)).
 
-More information about PubbyStation, and its history, can be found on /tg/station wikis page found [here](https://tgstation13.org/wiki/PubbyStation).
+More information about PubbyStation, and its history can be found on the /tg/station wiki page found [here](https://tgstation13.org/wiki/PubbyStation).
 
 ## Locations
 
