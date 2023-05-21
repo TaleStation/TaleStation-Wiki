@@ -1,8 +1,11 @@
-This page will contain information about subsystems, AKA things that can affect you during a round (like atmos).
+## About
+Pain is a response system. Whenever you take any sort of damage, be it brute or burn, you'll suffer a degree of pain as a result.
 
-# Pain
-Pain is a response system.
-Whenever you get hurt, be it from being shot at or being attacked, you'll be in a degree of pain. Pain can affect any limb region a carbon can have, however, they need to be a **valid** limb (chainsaw arms are not a valid limb).
+Pain can affect anybody part, and each body part has a maximum tolerance" to pain. These are internal values to determine the overall pain level. The external limbs have the lowest tolerance at 70, the head at 100, and the chest with maximum at 120. 
+
+Certain species and body parts will have predetermined pain modifiers. These can be higher or lower than the default (which is 1). 
+
+Pain will throw alerts to individuals depending on their total amount of pain.
 
 ## Damage and Effects of Pain
 Pain is caused my a myriad of things.
@@ -20,24 +23,61 @@ Getting shot, beat up, burned, or just suffering the general woes of being a spa
 ### Pain Effects
 
 | Level | Mechanical downsides | Notes |
-| ----- | -------------------- | ----- |
+| ----- | --------------- | ----- |
 | Low | Low stuttering, jitteriness and dizziness. | Things will ache and feel sore. |
 | Medium | Increased stuttering, jitteriness and dizziness duration. May suffer stamina loss, drop things or rarely may suffer shock. | Things will ache and feel sore more. | 
 | High | Increased stuttering, jitteriness and dizziness duration. | - | 
 
-### Shock
+## Shock
 
-Shock is very fatal if isn't treated quickly. Can suffer a myocardial infraction (heart attack) if not treated in time.
-Treating shock is relatively easy. Use a designated shock blanket to help stabilize body temp, as well as pain killers to help with the pain.
+Shock is very fatal if isn't treated quickly. Individuals can suffer a myocardial infarction (heart attack) if not treated in time.
+Treating shock is relatively easy, use a designated shock blanket to help stabilize body temp, as well as pain killers to help with the pain.
 
-## Curing pain
+Shock can also occur if the individual has suffered sever hemorrhage, or massive bleeding. Blood levels should be kept at a vital capacity (approx. 80% or above).
+
+### Curing Shock
+The following methods can be used to help treat shock:
+
+- Temperature stabilization: Keeping someone's body temperature at homeostasis (~98.6f ~37c)
+- Sleep: You can't consciously process what's going on if you're asleep
+- Using painkillers or other drugs (salgu/epinephrine): Drugs are good for you, probably
+- Having lower pain: Having less pain helps lessen pain, who would've known
+
+### Worsening Shock
+The following methods can exacerbate shock:
+
+- Bleeding: You're losing blood and at risk of becoming anemic
+- Wounds: They hurt, a lot, to have
+- Standing up: A moderate-ish negative trait to increasing shock
+
+### Shock Stages
+There are currently three stages to shock
+
+Stage 1
+- Sufferer will feel agitated, anxious
+- Sufferer will occasionally suffer nausea, or vomit
+- Sufferer will occasionally suffer chills and shiver
+
+Stage 2
+- Sufferer will face cognitive and mental issues
+- Basic vitals will be strained, breathing will be difficult and heart rate will increase
+- Maintaining homoeostasis becomes more difficult, this can spiral into problems quickly
+
+Stage 3
+- Sufferer suffers systemic shock
+- Myocardium Infarction imminent 
+
+## Curing Pain
 In emergency medkits, there are shock blankets. These are blankets that must be draped around a user (their neck slot) and turned on. They'll warm them up, stabilizing them a bit. It can also be used as a way to keep players warm, and feeding them pain medications. If they're suffering from other things (blood loss, an embedded object) treat those first and foremost while dealing with shock.
 
 ### Pain Tools
 
 Emergency medkits contain a handful of pain related tools, as mentioned earlier. They'll also contain a bottle of pain killers.
+
 NanoDrugs will contain two bottles of painkillers as well.
+
 The NanoMed Plus will contain a shock blanket, and hot/cold packs.
+
 The NanoMed (wall) will contain the same as the plus version, but at a lesser quantity. 
 
 ### Pain Medications
