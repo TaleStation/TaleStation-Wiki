@@ -78,6 +78,40 @@ To use pixel shift, hold down the keybind (defaults to `B`, but can be changed i
 
 # Local Out of Character
 
+Local Out of Character, or LOOC for short, is a version of OOC thats, well, local!
+Players within normal viewing range can hear this version of OOC.
+
+LOOC should still be treated as normal OOC, however, its okay to use it as a way to communicate with other party(ies) in the event you want to do something with them. The rules for OOC still apply to LOOC, that being, no IC in OOC. LOOC is still monitored by admins, so keep that in mind!
+
 # TaleStation's Unique Jobs
 
+TaleStation has a few unique jobs!
+Here's a quick run down of them.
+
+### [[Asset Protection]]
+
+Your main job is to protect all the heads of staff, no matter the situation.
+You are not security, so you do not involve yourself in security affairs. 
+Exert authority over the Bridge Officer. Laugh at them for not having a gun.
+
+### [[Bridge Officer]]
+
+Your main job is to file paperwork and aid the heads of staff in any paperwork affairs.
+You get a nifty fax machine. Use it to earn credits or annoy Central Command that the Site Director had died. Again.
+Become the butt end joke that every head of staff makes. Cry because the Asset Protection is more important than you.
+
+### [[Xenobiologist]]
+
+Your main job is to hide in your lab all shift long, work with the slimes, and maybe do cytology.
+You also get access to a unique version of botany, that allows you to grow more exotic plants that botany can't.
+Confine yourself to your lab all shift. Emerge as the slime rancher addict you are, or a God, creator of whatever's now loose in the ventilation system.
+
 # TaleStation's Unique Subsystem: Pain
+
+*Please read the [[Pain]] page for more information. This is just a snippet!!*
+
+Pain in the most simplest term, is a reaction following any sort of damage. It's a response system. You take damage, you feel pain.
+
+Pain can vary in its degree of severity, from being very acute to being chronic. In the most extreme case, chronic pain can lead to an untimely death if not treated.
+
+There are a handful of pain related chems that can ease its effects. However, time, body stability and rest are what'll cure it rapidly, as well as not bleeding all over the floors with your arms missing.
